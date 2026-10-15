@@ -1,0 +1,14 @@
+{
+  "name": "Central de Bots",
+  "short_name": "Bots",
+  "description": "Painel do campeonato de estratégias de cripto do Mateus",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
