@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "2026-10-20T05:08:35",
+  "atualizado_em": "2026-10-20T09:08:43",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
-    "saldo": 8388.18,
+    "saldo": 8325.21,
     "moeda": "USDT",
     "conta": null,
     "posicoes": [
@@ -596,7 +596,7 @@
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-10-20T08:08:34+00:00",
+      "placar_em": "2026-10-20T12:08:43+00:00",
       "temporada": 1,
       "temporada_inicio": "2026-10-15T22:54:07+00:00",
       "cemiterio": [],
@@ -1435,57 +1435,57 @@
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Grid (lateral) Apertado 331.83 (+0.10% ❤️100) | Veloz (4h) Reversão 4h 349.03 (+5.29% ❤️100) | Veloz (4h) Grid 4h 338.14 (+2.00% ❤️99) | Tendência Ágil 331.50 (+0.00% ❤️100) | Tendência Clássica 331.50 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "PLACAR TIMES",
         "detalhe": "Momentum -0.01% | Reversão à Média -0.53% | Veloz (4h) +1.42% | Tendência +0.00% | Rompimento +0.00% | Grid (lateral) -0.73%"
       },
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "VIDAS",
         "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002354"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002355"
       },
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003796"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003803"
       },
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.1999"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1997"
       },
       {
-        "quando": "2026-10-20T05:08:34",
+        "quando": "2026-10-20T09:08:43",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000499"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000497"
       },
       {
-        "quando": "2026-10-20T05:08:34",
-        "acao": "ERRO",
-        "detalhe": "[veloz_5] PEPEUSDT: 400 Client Error: Bad Request for url: https://testnet.binance.vision/api/v3/order?symbol=PEPEUSDT&side=BUY&type=MARKET&quoteOrderQty=23.53&timestamp=1792483710581&recvWindow=5000&signature=7dfc8f2f64fdf8ab78dcbbc1b33f279d4b000fdd9bd441ae64a4765c6400fc7d"
-      },
-      {
-        "quando": "2026-10-20T05:08:33",
+        "quando": "2026-10-20T09:08:43",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] UNIUSDT @ 7.184"
+        "detalhe": "[veloz_5] PEPEUSDT @ 0.0000042"
       },
       {
-        "quando": "2026-10-20T05:08:33",
+        "quando": "2026-10-20T09:08:43",
+        "acao": "SEM SINAL",
+        "detalhe": "[veloz_5] UNIUSDT @ 7.133"
+      },
+      {
+        "quando": "2026-10-20T09:08:43",
         "acao": "MANTER",
-        "detalhe": "[veloz_5] NEARUSDT LONG desde 5.075 | agora 4.781 | -5.8%"
+        "detalhe": "[veloz_5] NEARUSDT LONG desde 5.075 | agora 4.673 | -7.9%"
       }
     ],
-    "ultima_execucao": "2026-10-20T05:08:34",
+    "ultima_execucao": "2026-10-20T09:08:43",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
