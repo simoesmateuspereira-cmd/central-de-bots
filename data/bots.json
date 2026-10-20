@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-20T01:08:22",
+  "atualizado_em": "2026-10-20T05:08:35",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
@@ -576,6 +576,15 @@
       },
       {
         "par": "NEARUSDT",
+        "estrategia": "Veloz (4h) Grid 4h",
+        "entrada": 4.735,
+        "stop": 4.58976,
+        "alvo": null,
+        "qtd": 13.3,
+        "aberta_em": "2026-10-20T08:08:33+00:00"
+      },
+      {
+        "par": "NEARUSDT",
         "estrategia": "Veloz (4h) Tendência 4h",
         "entrada": 5.075,
         "stop": 4.58871429,
@@ -587,7 +596,7 @@
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-10-20T04:08:22+00:00",
+      "placar_em": "2026-10-20T08:08:34+00:00",
       "temporada": 1,
       "temporada_inicio": "2026-10-15T22:54:07+00:00",
       "cemiterio": [],
@@ -614,8 +623,8 @@
         {
           "time": "veloz",
           "nome": "Veloz (4h)",
-          "equity": 1678.83,
-          "retorno_pct": 1.29,
+          "equity": 1681.08,
+          "retorno_pct": 1.42,
           "vida_media": 99.5,
           "vivos": 5,
           "total": 5
@@ -701,14 +710,14 @@
           "time": "veloz",
           "apelido": "Grid 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 335.89,
+          "equity": 338.14,
           "cota_inicial": 331.5,
-          "retorno_pct": 1.32,
+          "retorno_pct": 2.0,
           "sharpe": 2.64,
           "max_dd": 2.32,
           "pontuacao": 2.64,
-          "posicoes_abertas": 3,
-          "aberturas": 16,
+          "posicoes_abertas": 4,
+          "aberturas": 17,
           "vitorias": 7,
           "derrotas": 6,
           "pnl": 2.23,
@@ -1342,12 +1351,17 @@
       ]
     },
     "estatisticas": {
-      "total_aberturas": 218,
+      "total_aberturas": 219,
       "total_fechamentos": 39,
       "vitorias": 0,
       "derrotas": 26
     },
     "historico": [
+      {
+        "quando": "2026-10-20T05:08:33",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_4] NEARUSDT 13.3 NEAR (~62.98 USDT) @ ~4.735 | stop 4.58976 | saída por regra | risco ~2.52 USDT ×1.5 | orderId 747280"
+      },
       {
         "quando": "2026-10-19T21:08:52",
         "acao": "FECHOU",
@@ -1417,66 +1431,61 @@
         "quando": "2026-10-19T13:08:21",
         "acao": "FECHOU",
         "detalhe": "[veloz_1] DOTUSDT 28.43 DOT @ ~1.148 — regra de saída | P&L +2.79 USDT | orderId 218066"
-      },
-      {
-        "quando": "2026-10-19T01:08:56",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_4] FLOKIUSDT 2693921.0 FLOKI (~62.93 USDT) @ ~0.00002336 | stop 0.0000224256 | saída por regra | risco ~2.52 USDT ×1.5 | orderId 150279"
       }
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "PLACAR",
-        "detalhe": "top 5 agentes: Grid (lateral) Apertado 331.83 (+0.10% ❤️100) | Veloz (4h) Reversão 4h 349.03 (+5.29% ❤️100) | Veloz (4h) Grid 4h 335.89 (+1.32% ❤️99) | Tendência Ágil 331.50 (+0.00% ❤️100) | Tendência Clássica 331.50 (+0.00% ❤️100)"
+        "detalhe": "top 5 agentes: Grid (lateral) Apertado 331.83 (+0.10% ❤️100) | Veloz (4h) Reversão 4h 349.03 (+5.29% ❤️100) | Veloz (4h) Grid 4h 338.14 (+2.00% ❤️99) | Tendência Ágil 331.50 (+0.00% ❤️100) | Tendência Clássica 331.50 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "PLACAR TIMES",
-        "detalhe": "Momentum -0.01% | Reversão à Média -0.53% | Veloz (4h) +1.29% | Tendência +0.00% | Rompimento +0.00% | Grid (lateral) -0.73%"
+        "detalhe": "Momentum -0.01% | Reversão à Média -0.53% | Veloz (4h) +1.42% | Tendência +0.00% | Rompimento +0.00% | Grid (lateral) -0.73%"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "VIDAS",
         "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002378"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002354"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003836"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003796"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.202"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1999"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:34",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000503"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000499"
       },
       {
-        "quando": "2026-10-20T01:08:22",
-        "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000422"
+        "quando": "2026-10-20T05:08:34",
+        "acao": "ERRO",
+        "detalhe": "[veloz_5] PEPEUSDT: 400 Client Error: Bad Request for url: https://testnet.binance.vision/api/v3/order?symbol=PEPEUSDT&side=BUY&type=MARKET&quoteOrderQty=23.53&timestamp=1792483710581&recvWindow=5000&signature=7dfc8f2f64fdf8ab78dcbbc1b33f279d4b000fdd9bd441ae64a4765c6400fc7d"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:33",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] UNIUSDT @ 7.312"
+        "detalhe": "[veloz_5] UNIUSDT @ 7.184"
       },
       {
-        "quando": "2026-10-20T01:08:22",
+        "quando": "2026-10-20T05:08:33",
         "acao": "MANTER",
-        "detalhe": "[veloz_5] NEARUSDT LONG desde 5.075 | agora 4.866 | -4.1%"
+        "detalhe": "[veloz_5] NEARUSDT LONG desde 5.075 | agora 4.781 | -5.8%"
       }
     ],
-    "ultima_execucao": "2026-10-20T01:08:22",
+    "ultima_execucao": "2026-10-20T05:08:34",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
