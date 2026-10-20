@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "2026-10-20T13:08:36",
+  "atualizado_em": "2026-10-20T17:08:36",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
-    "saldo": 8325.21,
+    "saldo": 8454.66,
     "moeda": "USDT",
     "conta": null,
     "posicoes": [
@@ -582,12 +582,30 @@
         "alvo": 6.04757143,
         "qtd": 2.5,
         "aberta_em": "2026-10-17T04:08:36+00:00"
+      },
+      {
+        "par": "BNBUSDT",
+        "estrategia": "Veloz (4h) Tendência 4h",
+        "entrada": 739.67,
+        "stop": 723.97285714,
+        "alvo": 769.29428571,
+        "qtd": 0.082,
+        "aberta_em": "2026-10-20T20:08:35+00:00"
+      },
+      {
+        "par": "UNIUSDT",
+        "estrategia": "Veloz (4h) Tendência 4h",
+        "entrada": 7.344,
+        "stop": 6.85871429,
+        "alvo": 8.26657143,
+        "qtd": 2.63,
+        "aberta_em": "2026-10-20T20:08:36+00:00"
       }
     ],
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-10-20T16:08:35+00:00",
+      "placar_em": "2026-10-20T20:08:36+00:00",
       "temporada": 1,
       "temporada_inicio": "2026-10-15T22:54:07+00:00",
       "cemiterio": [],
@@ -614,8 +632,8 @@
         {
           "time": "veloz",
           "nome": "Veloz (4h)",
-          "equity": 1683.68,
-          "retorno_pct": 1.58,
+          "equity": 1683.0,
+          "retorno_pct": 1.54,
           "vida_media": 99.5,
           "vivos": 5,
           "total": 5
@@ -1299,14 +1317,14 @@
           "time": "veloz",
           "apelido": "Tendência 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 331.07,
+          "equity": 330.39,
           "cota_inicial": 331.5,
-          "retorno_pct": -0.13,
+          "retorno_pct": -0.34,
           "sharpe": -4.8,
           "max_dd": 0.16,
           "pontuacao": -4.8,
-          "posicoes_abertas": 1,
-          "aberturas": 1,
+          "posicoes_abertas": 3,
+          "aberturas": 3,
           "vitorias": 0,
           "derrotas": 0,
           "pnl": 0.0,
@@ -1342,12 +1360,22 @@
       ]
     },
     "estatisticas": {
-      "total_aberturas": 221,
+      "total_aberturas": 223,
       "total_fechamentos": 42,
       "vitorias": 0,
       "derrotas": 26
     },
     "historico": [
+      {
+        "quando": "2026-10-20T17:08:36",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] UNIUSDT 2.63 UNI (~19.31 USDT) @ ~7.344 | stop 6.8587143 | alvo 8.2665714 | risco ~1.24 USDT ×0.75 | orderId 818796"
+      },
+      {
+        "quando": "2026-10-20T17:08:35",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] BNBUSDT 0.082 BNB (~60.65 USDT) @ ~739.67 | stop 723.97286 | alvo 769.29429 | risco ~1.24 USDT ×0.75 | orderId 1943767"
+      },
       {
         "quando": "2026-10-20T13:08:35",
         "acao": "FECHOU",
@@ -1412,71 +1440,61 @@
         "quando": "2026-10-19T21:08:45",
         "acao": "ORDEM LONG",
         "detalhe": "[grid_1] NEARUSDT 12.7 NEAR (~61.70 USDT) @ ~4.858 | stop 4.70784 | saída por regra | risco ~2.48 USDT ×1.5 | orderId 730415"
-      },
-      {
-        "quando": "2026-10-19T21:08:43",
-        "acao": "ORDEM LONG",
-        "detalhe": "[reversao_6] ADAUSDT 65.7 ADA (~14.26 USDT) @ ~0.2171 | stop 0.18647143 | saída por regra | risco ~2.07 USDT ×1.25 | orderId 284153"
-      },
-      {
-        "quando": "2026-10-19T21:08:42",
-        "acao": "ORDEM LONG",
-        "detalhe": "[reversao_4] ADAUSDT 65.3 ADA (~14.18 USDT) @ ~0.2171 | stop 0.18647143 | saída por regra | risco ~2.06 USDT ×1.25 | orderId 284151"
       }
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Grid (lateral) Apertado 331.83 (+0.10% ❤️100) | Veloz (4h) Reversão 4h 349.96 (+5.57% ❤️100) | Veloz (4h) Grid 4h 341.56 (+3.04% ❤️99) | Tendência Ágil 331.50 (+0.00% ❤️100) | Tendência Clássica 331.50 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "PLACAR TIMES",
-        "detalhe": "Momentum -0.01% | Reversão à Média -0.53% | Veloz (4h) +1.58% | Tendência +0.00% | Rompimento +0.00% | Grid (lateral) -0.73%"
+        "detalhe": "Momentum -0.01% | Reversão à Média -0.53% | Veloz (4h) +1.54% | Tendência +0.00% | Rompimento +0.00% | Grid (lateral) -0.73%"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "VIDAS",
         "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002448"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002462"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003953"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003925"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.2058"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.2054"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.0000051"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000509"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:36",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000453"
+        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000462"
       },
       {
-        "quando": "2026-10-20T13:08:35",
-        "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] UNIUSDT @ 7.274"
+        "quando": "2026-10-20T17:08:36",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] UNIUSDT 2.63 UNI (~19.31 USDT) @ ~7.344 | stop 6.8587143 | alvo 8.2665714 | risco ~1.24 USDT ×0.75 | orderId 818796"
       },
       {
-        "quando": "2026-10-20T13:08:35",
+        "quando": "2026-10-20T17:08:35",
         "acao": "MANTER",
-        "detalhe": "[veloz_5] NEARUSDT LONG desde 5.075 | agora 4.851 | -4.4%"
+        "detalhe": "[veloz_5] NEARUSDT LONG desde 5.075 | agora 4.864 | -4.2%"
       }
     ],
-    "ultima_execucao": "2026-10-20T13:08:35",
+    "ultima_execucao": "2026-10-20T17:08:36",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
