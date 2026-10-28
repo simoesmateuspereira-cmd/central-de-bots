@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "2026-10-28T09:08:39",
+  "atualizado_em": "2026-10-28T13:08:43",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
-    "saldo": 8309.34,
+    "saldo": 8209.78,
     "moeda": "USDT",
     "conta": null,
     "posicoes": [
@@ -650,7 +650,7 @@
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-10-28T12:08:39+00:00",
+      "placar_em": "2026-10-28T16:08:42+00:00",
       "temporada": 1,
       "temporada_inicio": "2026-10-15T22:54:07+00:00",
       "cemiterio": [],
@@ -1489,57 +1489,57 @@
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "APRENDIZADO",
-        "detalhe": "21 trades na memória | 45 avaliações pós-saída | 2 hipóteses exploratórias | 0 regras alteradas"
+        "detalhe": "21 trades na memória | 47 avaliações pós-saída | 2 hipóteses exploratórias | 0 regras alteradas"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Veloz (4h) Reversão 4h 349.13 (+5.32% ❤️98) | Tendência Ágil 331.50 (+0.00% ❤️100) | Tendência Clássica 331.50 (+0.00% ❤️100) | Tendência Forte 331.50 (+0.00% ❤️100) | Tendência Paciente 331.50 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "PLACAR TIMES",
         "detalhe": "Momentum -0.02% | Reversão à Média -2.10% | Tendência +0.00% | Rompimento +0.00% | Veloz (4h) -0.55% | Grid (lateral) -3.66%"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "VIDAS",
         "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "AGUARDANDO",
         "detalhe": "500 pares sem novo candle fechado; nenhuma decisão repetida"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002396"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002368"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003617"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003535"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.1828"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1811"
       },
       {
-        "quando": "2026-10-28T09:08:39",
+        "quando": "2026-10-28T13:08:42",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000501"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000495"
       },
       {
-        "quando": "2026-10-28T09:08:39",
-        "acao": "ERRO",
-        "detalhe": "[veloz_5] PEPEUSDT: POST /api/v3/order: HTTP 400 | código -2010 | Order book liquidity is less than LOT_SIZE filter minimum quantity."
+        "quando": "2026-10-28T13:08:42",
+        "acao": "SEM SINAL",
+        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000485"
       }
     ],
-    "ultima_execucao": "2026-10-28T09:08:39",
+    "ultima_execucao": "2026-10-28T13:08:42",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",

@@ -1,0 +1,41 @@
+{
+  "validado_em": "2026-10-28T11:20:01-03:00",
+  "status": "validado",
+  "modo": "Laboratório · dry-run",
+  "versao": "2026.9",
+  "python": "3.12.14",
+  "ccxt": "4.5.90",
+  "exchange": "Binance spot",
+  "capital_simulado": 10000,
+  "checks": [
+    {
+      "nome": "Instalação isolada",
+      "resultado": "aprovado",
+      "detalhe": "Freqtrade 2026.9 no Windows, sem alterar os bots existentes."
+    },
+    {
+      "nome": "Configuração e conexão pública",
+      "resultado": "aprovado",
+      "detalhe": "Binance spot reconhecida e 17.620 candles de 5 minutos baixados."
+    },
+    {
+      "nome": "Motor de backtest",
+      "resultado": "aprovado",
+      "detalhe": "13 operações processadas com taxa de 0,10% e relatório completo."
+    },
+    {
+      "nome": "Dry-run e persistência",
+      "resultado": "aprovado",
+      "detalhe": "Carteira simulada sincronizada, estado RUNNING e banco SQLite criado."
+    }
+  ],
+  "backtest": {
+    "estrategia": "SampleStrategy · somente teste técnico",
+    "periodo": "28/09/2026 a 27/10/2026",
+    "trades": 13,
+    "retorno_pct": -0.07,
+    "drawdown_pct": 0.11,
+    "taxa_pct": 0.10
+  },
+  "aviso": "A validação aprova a infraestrutura, não a rentabilidade. A estratégia de exemplo ficou negativa e não será usada em produção. A regra SMA 20/100 + RSI ainda precisa ser portada e validada em cripto."
+}
