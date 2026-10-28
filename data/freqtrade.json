@@ -37,5 +37,38 @@
     "drawdown_pct": 0.11,
     "taxa_pct": 0.10
   },
-  "aviso": "A validação aprova a infraestrutura, não a rentabilidade. A estratégia de exemplo ficou negativa e não será usada em produção. A regra SMA 20/100 + RSI ainda precisa ser portada e validada em cripto."
+  "estrategia": {
+    "nome": "SmaRsiDailyStrategy",
+    "status": "dry-run verificado",
+    "timeframe": "Diário · 5 pares spot",
+    "risco_pct": 0.2,
+    "stop": "2 × ATR(14)",
+    "alvo": "2R",
+    "periodo": "07/01/2023 a 27/10/2026",
+    "trades": 45,
+    "retorno_pct": 2.80,
+    "acerto_pct": 35.6,
+    "drawdown_pct": 1.98,
+    "profit_factor": 1.48,
+    "market_change_pct": 321.80,
+    "periodos": [
+      {
+        "nome": "2023–2024",
+        "trades": 26,
+        "retorno_pct": 1.70
+      },
+      {
+        "nome": "2025–2026",
+        "trades": 19,
+        "retorno_pct": 1.08
+      }
+    ],
+    "lookahead": {
+      "resultado": "Nenhum viés detectado",
+      "sinais": 18,
+      "entradas_enviesadas": 0,
+      "saidas_enviesadas": 0
+    }
+  },
+  "aviso": "O dry-run foi verificado e a análise não detectou viés de lookahead, mas isso não aprova a estratégia para dinheiro real. O retorno foi modesto e ficou muito atrás do mercado no período geral. A execução do alvo 2R pelo Freqtrade ainda precisa ser reconciliada trade a trade com o motor anterior."
 }
