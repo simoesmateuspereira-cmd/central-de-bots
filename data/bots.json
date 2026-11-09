@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "2026-11-09T05:08:46",
+  "atualizado_em": "2026-11-09T09:08:27",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
-    "saldo": 8451.07,
+    "saldo": 8494.27,
     "moeda": "USDT",
     "conta": null,
     "posicoes": [
@@ -422,15 +422,6 @@
         "aberta_em": "2026-11-09T00:09:31+00:00"
       },
       {
-        "par": "DOGSUSDT",
-        "estrategia": "Veloz (4h) Grid 4h",
-        "entrada": 2.907e-05,
-        "stop": 2.789e-05,
-        "alvo": null,
-        "qtd": 2064327.0,
-        "aberta_em": "2026-11-09T00:09:33+00:00"
-      },
-      {
         "par": "SOLUSDT",
         "estrategia": "Veloz (4h) Grid 4h",
         "entrada": 87.52,
@@ -438,12 +429,21 @@
         "alvo": null,
         "qtd": 0.208,
         "aberta_em": "2026-11-09T04:08:26+00:00"
+      },
+      {
+        "par": "FLOKIUSDT",
+        "estrategia": "Veloz (4h) Grid 4h",
+        "entrada": 2.086e-05,
+        "stop": 1.989e-05,
+        "alvo": null,
+        "qtd": 2898370.0,
+        "aberta_em": "2026-11-09T12:08:26+00:00"
       }
     ],
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-11-09T08:08:45+00:00",
+      "placar_em": "2026-11-09T12:08:26+00:00",
       "temporada": 1,
       "temporada_inicio": "2026-10-15T22:54:07+00:00",
       "cemiterio": [],
@@ -488,8 +488,8 @@
         {
           "time": "veloz",
           "nome": "Veloz (4h)",
-          "equity": 1577.53,
-          "retorno_pct": -4.82,
+          "equity": 1579.57,
+          "retorno_pct": -4.7,
           "vida_media": 84.6,
           "vivos": 5,
           "total": 5
@@ -649,17 +649,17 @@
           "time": "veloz",
           "apelido": "Grid 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 319.81,
+          "equity": 321.85,
           "cota_inicial": 331.5,
-          "retorno_pct": -3.53,
+          "retorno_pct": -2.91,
           "sharpe": -1.28,
           "max_dd": 6.61,
           "pontuacao": -1.28,
           "posicoes_abertas": 6,
-          "aberturas": 78,
-          "vitorias": 36,
+          "aberturas": 79,
+          "vitorias": 37,
           "derrotas": 36,
-          "pnl": -9.14,
+          "pnl": -6.53,
           "vida": 78.9,
           "status": "confiante",
           "morta": false,
@@ -1198,12 +1198,22 @@
       ]
     },
     "estatisticas": {
-      "total_aberturas": 465,
-      "total_fechamentos": 302,
+      "total_aberturas": 466,
+      "total_fechamentos": 303,
       "vitorias": 1,
       "derrotas": 214
     },
     "historico": [
+      {
+        "quando": "2026-11-09T09:08:26",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_4] FLOKIUSDT 2898370.0 FLOKI (~60.46 USDT) @ ~0.00002086 | stop 0.0000198912 | saída por regra | risco ~2.42 USDT ×1.5 | orderId 402080"
+      },
+      {
+        "quando": "2026-11-09T09:08:25",
+        "acao": "FECHOU",
+        "detalhe": "[veloz_4] DOGSUSDT 2064327.0 DOGS @ ~0.00003058 — regra de saída | P&L +2.61 USDT | orderId 731225"
+      },
       {
         "quando": "2026-11-09T05:08:45",
         "acao": "FECHOU",
@@ -1268,71 +1278,61 @@
         "quando": "2026-11-08T21:09:26",
         "acao": "ORDEM LONG",
         "detalhe": "[veloz_4] AVAXUSDT 7.6 AVAX (~60.25 USDT) @ ~7.928 | stop 7.61856 | saída por regra | risco ~2.41 USDT ×1.5 | orderId 1793848"
-      },
-      {
-        "quando": "2026-11-08T21:09:24",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_4] DOGEUSDT 857.0 DOGE @ ~0.06896 — stop atingido (0.07) | P&L -2.55 USDT | orderId 1347183"
-      },
-      {
-        "quando": "2026-11-08T21:09:22",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_4] ADAUSDT 77.8 ADA @ ~0.1753 — stop atingido (0.18) | P&L -0.64 USDT | orderId 600787"
       }
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-11-09T05:08:46",
+        "quando": "2026-11-09T09:08:27",
         "acao": "APRENDIZADO",
-        "detalhe": "199 trades na memória | 536 avaliações pós-saída | 32 hipóteses exploratórias | 0 regras alteradas"
+        "detalhe": "200 trades na memória | 546 avaliações pós-saída | 32 hipóteses exploratórias | 0 regras alteradas"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Veloz (4h) Reversão 4h 352.45 (+6.32% ❤️97) | Tendência Ágil 331.50 (+0.00% ❤️100) | Tendência Clássica 331.50 (+0.00% ❤️100) | Tendência Forte 331.50 (+0.00% ❤️100) | Tendência Paciente 331.50 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "PLACAR TIMES",
-        "detalhe": "Momentum -1.10% | Reversão à Média -6.75% | Tendência +0.00% | Rompimento -0.84% | Veloz (4h) -4.82% | Grid (lateral) -5.52%"
+        "detalhe": "Momentum -1.10% | Reversão à Média -6.75% | Tendência +0.00% | Rompimento -0.84% | Veloz (4h) -4.70% | Grid (lateral) -5.52%"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "VIDAS",
         "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "AGUARDANDO",
         "detalhe": "500 pares sem novo candle fechado; nenhuma decisão repetida"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002035"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00002072"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002875"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00003058"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.1522"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1565"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000432"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000439"
       },
       {
-        "quando": "2026-11-09T05:08:45",
+        "quando": "2026-11-09T09:08:26",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] PEPEUSDT @ 0.000005"
+        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000502"
       }
     ],
-    "ultima_execucao": "2026-11-09T05:08:46",
+    "ultima_execucao": "2026-11-09T09:08:27",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
