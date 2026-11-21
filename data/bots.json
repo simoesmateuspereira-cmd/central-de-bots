@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-21T13:08:40",
+  "atualizado_em": "2026-11-21T17:08:21",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
@@ -704,7 +704,7 @@
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-11-21T16:08:39+00:00",
+      "placar_em": "2026-11-21T20:08:20+00:00",
       "temporada": 2,
       "temporada_inicio": "2026-11-15T04:12:42+00:00",
       "cemiterio": [],
@@ -1703,57 +1703,57 @@
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-11-21T13:08:40",
+        "quando": "2026-11-21T17:08:21",
         "acao": "APRENDIZADO",
-        "detalhe": "478 trades na memória | 1223 avaliações pós-saída | 38 hipóteses exploratórias | 0 regras alteradas"
+        "detalhe": "478 trades na memória | 1243 avaliações pós-saída | 37 hipóteses exploratórias | 0 regras alteradas"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Tendência Ágil 500.00 (+0.00% ❤️100) | Tendência Clássica 500.00 (+0.00% ❤️100) | Tendência Forte 500.00 (+0.00% ❤️100) | Tendência Paciente 500.00 (+0.00% ❤️100) | Tendência Longa 500.00 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "PLACAR TIMES",
         "detalhe": "Tendência +0.00% | Momentum +0.00% | Reversão à Média -6.68% | Rompimento +0.00% | Veloz (4h) -1.99% | Grid (lateral) +0.00%"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "VIDAS",
         "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "AGUARDANDO",
         "detalhe": "500 pares sem novo candle fechado; nenhuma decisão repetida"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00001609"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00001607"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002485"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002483"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.1194"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1189"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000362"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000363"
       },
       {
-        "quando": "2026-11-21T13:08:39",
+        "quando": "2026-11-21T17:08:20",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000342"
+        "detalhe": "[veloz_5] PEPEUSDT @ 0.0000034"
       }
     ],
-    "ultima_execucao": "2026-11-21T13:08:40",
+    "ultima_execucao": "2026-11-21T17:08:21",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
