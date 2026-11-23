@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "2026-11-22T17:08:42",
+  "atualizado_em": "2026-11-22T21:10:10",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
-    "saldo": 8293.05,
+    "saldo": 8420.79,
     "moeda": "USDT",
     "conta": null,
     "posicoes": [
@@ -87,6 +87,51 @@
         "alvo": null,
         "qtd": 1045482.0,
         "aberta_em": "2026-11-22T00:08:43+00:00"
+      },
+      {
+        "par": "ETHUSDT",
+        "estrategia": "Reversão à Média Cirúrgica",
+        "entrada": 1723.86,
+        "stop": 1492.32142857,
+        "alvo": null,
+        "qtd": 0.0121,
+        "aberta_em": "2026-11-23T00:08:44+00:00"
+      },
+      {
+        "par": "DOGEUSDT",
+        "estrategia": "Reversão à Média Cirúrgica",
+        "entrada": 0.05532,
+        "stop": 0.04765286,
+        "alvo": null,
+        "qtd": 366.0,
+        "aberta_em": "2026-11-23T00:08:45+00:00"
+      },
+      {
+        "par": "DOTUSDT",
+        "estrategia": "Reversão à Média Cirúrgica",
+        "entrada": 0.661,
+        "stop": 0.56257143,
+        "alvo": null,
+        "qtd": 28.47,
+        "aberta_em": "2026-11-23T00:08:47+00:00"
+      },
+      {
+        "par": "LTCUSDT",
+        "estrategia": "Reversão à Média Cirúrgica",
+        "entrada": 40.12,
+        "stop": 34.80571429,
+        "alvo": null,
+        "qtd": 0.524,
+        "aberta_em": "2026-11-23T00:08:49+00:00"
+      },
+      {
+        "par": "WIFUSDT",
+        "estrategia": "Reversão à Média Cirúrgica",
+        "entrada": 0.1203,
+        "stop": 0.10107143,
+        "alvo": null,
+        "qtd": 145.13,
+        "aberta_em": "2026-11-23T00:08:53+00:00"
       },
       {
         "par": "SOLUSDT",
@@ -204,6 +249,33 @@
         "alvo": null,
         "qtd": 1039252.0,
         "aberta_em": "2026-11-22T00:09:00+00:00"
+      },
+      {
+        "par": "DOGEUSDT",
+        "estrategia": "Reversão à Média Clássica",
+        "entrada": 0.05531,
+        "stop": 0.04765286,
+        "alvo": null,
+        "qtd": 365.0,
+        "aberta_em": "2026-11-23T00:08:55+00:00"
+      },
+      {
+        "par": "DOTUSDT",
+        "estrategia": "Reversão à Média Clássica",
+        "entrada": 0.661,
+        "stop": 0.56257143,
+        "alvo": null,
+        "qtd": 28.38,
+        "aberta_em": "2026-11-23T00:08:57+00:00"
+      },
+      {
+        "par": "WIFUSDT",
+        "estrategia": "Reversão à Média Clássica",
+        "entrada": 0.1203,
+        "stop": 0.10107143,
+        "alvo": null,
+        "qtd": 144.63,
+        "aberta_em": "2026-11-23T00:09:02+00:00"
       },
       {
         "par": "SOLUSDT",
@@ -332,6 +404,42 @@
         "aberta_em": "2026-11-22T00:09:19+00:00"
       },
       {
+        "par": "DOGEUSDT",
+        "estrategia": "Reversão à Média Agressiva",
+        "entrada": 0.05531,
+        "stop": 0.04765286,
+        "alvo": null,
+        "qtd": 360.0,
+        "aberta_em": "2026-11-23T00:09:03+00:00"
+      },
+      {
+        "par": "AVAXUSDT",
+        "estrategia": "Reversão à Média Agressiva",
+        "entrada": 6.681,
+        "stop": 5.50085714,
+        "alvo": null,
+        "qtd": 2.34,
+        "aberta_em": "2026-11-23T00:09:05+00:00"
+      },
+      {
+        "par": "DOTUSDT",
+        "estrategia": "Reversão à Média Agressiva",
+        "entrada": 0.661,
+        "stop": 0.56257143,
+        "alvo": null,
+        "qtd": 28.0,
+        "aberta_em": "2026-11-23T00:09:06+00:00"
+      },
+      {
+        "par": "WIFUSDT",
+        "estrategia": "Reversão à Média Agressiva",
+        "entrada": 0.1203,
+        "stop": 0.10107143,
+        "alvo": null,
+        "qtd": 142.72,
+        "aberta_em": "2026-11-23T00:09:10+00:00"
+      },
+      {
         "par": "SOLUSDT",
         "estrategia": "Reversão à Média Rápida",
         "entrada": 72.57,
@@ -449,6 +557,33 @@
         "aberta_em": "2026-11-22T00:09:36+00:00"
       },
       {
+        "par": "DOGEUSDT",
+        "estrategia": "Reversão à Média Rápida",
+        "entrada": 0.05532,
+        "stop": 0.04765286,
+        "alvo": null,
+        "qtd": 365.0,
+        "aberta_em": "2026-11-23T00:09:12+00:00"
+      },
+      {
+        "par": "DOTUSDT",
+        "estrategia": "Reversão à Média Rápida",
+        "entrada": 0.661,
+        "stop": 0.56257143,
+        "alvo": null,
+        "qtd": 28.38,
+        "aberta_em": "2026-11-23T00:09:13+00:00"
+      },
+      {
+        "par": "WIFUSDT",
+        "estrategia": "Reversão à Média Rápida",
+        "entrada": 0.1203,
+        "stop": 0.10107143,
+        "alvo": null,
+        "qtd": 144.63,
+        "aberta_em": "2026-11-23T00:09:19+00:00"
+      },
+      {
         "par": "SOLUSDT",
         "estrategia": "Reversão à Média Profunda",
         "entrada": 72.57,
@@ -501,6 +636,15 @@
         "alvo": null,
         "qtd": 0.048,
         "aberta_em": "2026-11-22T00:09:41+00:00"
+      },
+      {
+        "par": "DOTUSDT",
+        "estrategia": "Reversão à Média Profunda",
+        "entrada": 0.661,
+        "stop": 0.56257143,
+        "alvo": null,
+        "qtd": 29.28,
+        "aberta_em": "2026-11-23T00:09:20+00:00"
       },
       {
         "par": "SOLUSDT",
@@ -584,13 +728,49 @@
         "aberta_em": "2026-11-22T00:10:03+00:00"
       },
       {
-        "par": "DOGEUSDT",
-        "estrategia": "Veloz (4h) Reversão 4h",
-        "entrada": 0.05123,
-        "stop": 0.04899143,
+        "par": "ETHUSDT",
+        "estrategia": "Reversão à Média Precisa",
+        "entrada": 1724.05,
+        "stop": 1492.32142857,
         "alvo": null,
-        "qtd": 959.0,
-        "aberta_em": "2026-11-21T04:08:45+00:00"
+        "qtd": 0.0121,
+        "aberta_em": "2026-11-23T00:09:24+00:00"
+      },
+      {
+        "par": "DOGEUSDT",
+        "estrategia": "Reversão à Média Precisa",
+        "entrada": 0.05534,
+        "stop": 0.04765286,
+        "alvo": null,
+        "qtd": 366.0,
+        "aberta_em": "2026-11-23T00:09:25+00:00"
+      },
+      {
+        "par": "DOTUSDT",
+        "estrategia": "Reversão à Média Precisa",
+        "entrada": 0.661,
+        "stop": 0.56257143,
+        "alvo": null,
+        "qtd": 28.47,
+        "aberta_em": "2026-11-23T00:09:27+00:00"
+      },
+      {
+        "par": "LTCUSDT",
+        "estrategia": "Reversão à Média Precisa",
+        "entrada": 40.11,
+        "stop": 34.80571429,
+        "alvo": null,
+        "qtd": 0.524,
+        "aberta_em": "2026-11-23T00:09:29+00:00"
+      },
+      {
+        "par": "WIFUSDT",
+        "estrategia": "Reversão à Média Precisa",
+        "entrada": 0.1203,
+        "stop": 0.10107143,
+        "alvo": null,
+        "qtd": 145.13,
+        "aberta_em": "2026-11-23T00:09:35+00:00"
       },
       {
         "par": "DOGSUSDT",
@@ -618,21 +798,12 @@
         "alvo": null,
         "qtd": 2858338.0,
         "aberta_em": "2026-11-21T08:08:50+00:00"
-      },
-      {
-        "par": "SOLUSDT",
-        "estrategia": "Veloz (4h) Grid 4h",
-        "entrada": 69.58,
-        "stop": 66.7008,
-        "alvo": null,
-        "qtd": 0.492,
-        "aberta_em": "2026-11-22T04:08:44+00:00"
       }
     ],
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-11-22T20:08:41+00:00",
+      "placar_em": "2026-11-23T00:09:38+00:00",
       "temporada": 2,
       "temporada_inicio": "2026-11-15T04:12:42+00:00",
       "cemiterio": [],
@@ -819,9 +990,9 @@
         {
           "time": "reversao",
           "nome": "Reversão à Média",
-          "equity": 2249.32,
-          "retorno_pct": -6.28,
-          "vida_media": 85.9,
+          "equity": 2264.18,
+          "retorno_pct": -5.66,
+          "vida_media": 86.5,
           "vivos": 6,
           "total": 6
         },
@@ -837,9 +1008,9 @@
         {
           "time": "veloz",
           "nome": "Veloz (4h)",
-          "equity": 1970.97,
-          "retorno_pct": -1.45,
-          "vida_media": 95.1,
+          "equity": 1972.38,
+          "retorno_pct": -1.38,
+          "vida_media": 95.4,
           "vivos": 5,
           "total": 5
         },
@@ -1320,18 +1491,18 @@
           "time": "veloz",
           "apelido": "Reversão 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 407.87,
+          "equity": 409.09,
           "cota_inicial": 400.0,
-          "retorno_pct": 1.97,
-          "sharpe": -3.88,
+          "retorno_pct": 2.27,
+          "sharpe": -1.16,
           "max_dd": 3.09,
-          "pontuacao": -3.88,
-          "posicoes_abertas": 4,
+          "pontuacao": -1.16,
+          "posicoes_abertas": 3,
           "aberturas": 29,
-          "vitorias": 15,
+          "vitorias": 16,
           "derrotas": 10,
-          "pnl": -0.42,
-          "vida": 95.2,
+          "pnl": 3.51,
+          "vida": 96.2,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1343,18 +1514,18 @@
           "time": "reversao",
           "apelido": "Profunda",
           "descricao": "RSI baixo e preço descontado vs SMA20",
-          "equity": 386.65,
+          "equity": 387.8,
           "cota_inicial": 400.0,
-          "retorno_pct": -3.34,
-          "sharpe": -7.99,
+          "retorno_pct": -3.05,
+          "sharpe": -6.61,
           "max_dd": 3.97,
-          "pontuacao": -7.99,
-          "posicoes_abertas": 6,
-          "aberturas": 12,
+          "pontuacao": -6.61,
+          "posicoes_abertas": 7,
+          "aberturas": 13,
           "vitorias": 0,
           "derrotas": 6,
           "pnl": -11.57,
-          "vida": 92.3,
+          "vida": 92.6,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1366,18 +1537,18 @@
           "time": "reversao",
           "apelido": "Precisa",
           "descricao": "RSI baixo e preço descontado vs SMA20",
-          "equity": 374.75,
+          "equity": 376.96,
           "cota_inicial": 400.0,
-          "retorno_pct": -6.31,
-          "sharpe": -9.55,
+          "retorno_pct": -5.76,
+          "sharpe": -7.76,
           "max_dd": 7.27,
-          "pontuacao": -9.55,
-          "posicoes_abertas": 9,
-          "aberturas": 17,
+          "pontuacao": -7.76,
+          "posicoes_abertas": 14,
+          "aberturas": 22,
           "vitorias": 0,
           "derrotas": 8,
           "pnl": -19.08,
-          "vida": 85.8,
+          "vida": 86.4,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1389,18 +1560,18 @@
           "time": "reversao",
           "apelido": "Cirúrgica",
           "descricao": "RSI baixo e preço descontado vs SMA20",
-          "equity": 374.87,
+          "equity": 377.08,
           "cota_inicial": 400.0,
-          "retorno_pct": -6.28,
-          "sharpe": -9.57,
+          "retorno_pct": -5.73,
+          "sharpe": -7.78,
           "max_dd": 7.28,
-          "pontuacao": -9.57,
-          "posicoes_abertas": 9,
-          "aberturas": 17,
+          "pontuacao": -7.78,
+          "posicoes_abertas": 14,
+          "aberturas": 22,
           "vitorias": 0,
           "derrotas": 8,
           "pnl": -19.02,
-          "vida": 85.8,
+          "vida": 86.4,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1412,18 +1583,18 @@
           "time": "reversao",
           "apelido": "Clássica",
           "descricao": "RSI baixo e preço descontado vs SMA20",
-          "equity": 372.6,
+          "equity": 375.8,
           "cota_inicial": 400.0,
-          "retorno_pct": -6.85,
-          "sharpe": -10.21,
+          "retorno_pct": -6.05,
+          "sharpe": -7.87,
           "max_dd": 7.85,
-          "pontuacao": -10.21,
-          "posicoes_abertas": 13,
-          "aberturas": 21,
+          "pontuacao": -7.87,
+          "posicoes_abertas": 16,
+          "aberturas": 24,
           "vitorias": 0,
           "derrotas": 8,
           "pnl": -20.71,
-          "vida": 84.1,
+          "vida": 84.9,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1435,18 +1606,18 @@
           "time": "reversao",
           "apelido": "Rápida",
           "descricao": "RSI baixo e preço descontado vs SMA20",
-          "equity": 372.51,
+          "equity": 375.69,
           "cota_inicial": 400.0,
-          "retorno_pct": -6.87,
-          "sharpe": -10.21,
+          "retorno_pct": -6.08,
+          "sharpe": -7.88,
           "max_dd": 7.84,
-          "pontuacao": -10.21,
-          "posicoes_abertas": 13,
-          "aberturas": 21,
+          "pontuacao": -7.88,
+          "posicoes_abertas": 16,
+          "aberturas": 24,
           "vitorias": 0,
           "derrotas": 8,
           "pnl": -20.74,
-          "vida": 84.1,
+          "vida": 84.9,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1458,18 +1629,41 @@
           "time": "reversao",
           "apelido": "Agressiva",
           "descricao": "RSI baixo e preço descontado vs SMA20",
-          "equity": 367.94,
+          "equity": 370.85,
           "cota_inicial": 400.0,
-          "retorno_pct": -8.02,
-          "sharpe": -10.28,
+          "retorno_pct": -7.29,
+          "sharpe": -8.22,
           "max_dd": 8.89,
-          "pontuacao": -10.28,
-          "posicoes_abertas": 14,
-          "aberturas": 23,
+          "pontuacao": -8.22,
+          "posicoes_abertas": 18,
+          "aberturas": 27,
           "vitorias": 0,
           "derrotas": 9,
           "pnl": -22.49,
-          "vida": 83.3,
+          "vida": 84.1,
+          "status": "confiante",
+          "morta": false,
+          "geracao": 1,
+          "repasses": 0
+        },
+        {
+          "key": "veloz_4",
+          "nome": "Veloz (4h) Grid 4h",
+          "time": "veloz",
+          "apelido": "Grid 4h",
+          "descricao": "laboratório rápido em candles de 4 horas",
+          "equity": 366.95,
+          "cota_inicial": 400.0,
+          "retorno_pct": -8.26,
+          "sharpe": -9.86,
+          "max_dd": 9.35,
+          "pontuacao": -9.86,
+          "posicoes_abertas": 0,
+          "aberturas": 33,
+          "vitorias": 10,
+          "derrotas": 23,
+          "pnl": -33.05,
+          "vida": 82.5,
           "status": "confiante",
           "morta": false,
           "geracao": 1,
@@ -1484,9 +1678,9 @@
           "equity": 398.94,
           "cota_inicial": 400.0,
           "retorno_pct": -0.26,
-          "sharpe": -10.9,
+          "sharpe": -9.96,
           "max_dd": 0.28,
-          "pontuacao": -10.9,
+          "pontuacao": -9.96,
           "posicoes_abertas": 0,
           "aberturas": 1,
           "vitorias": 0,
@@ -1507,9 +1701,9 @@
           "equity": 397.4,
           "cota_inicial": 400.0,
           "retorno_pct": -0.65,
-          "sharpe": -11.27,
+          "sharpe": -10.28,
           "max_dd": 0.65,
-          "pontuacao": -11.27,
+          "pontuacao": -10.28,
           "posicoes_abertas": 0,
           "aberturas": 2,
           "vitorias": 0,
@@ -1520,168 +1714,145 @@
           "morta": false,
           "geracao": 1,
           "repasses": 0
-        },
-        {
-          "key": "veloz_4",
-          "nome": "Veloz (4h) Grid 4h",
-          "time": "veloz",
-          "apelido": "Grid 4h",
-          "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 366.76,
-          "cota_inicial": 400.0,
-          "retorno_pct": -8.31,
-          "sharpe": -11.69,
-          "max_dd": 9.35,
-          "pontuacao": -11.69,
-          "posicoes_abertas": 1,
-          "aberturas": 33,
-          "vitorias": 9,
-          "derrotas": 23,
-          "pnl": -33.59,
-          "vida": 82.1,
-          "status": "confiante",
-          "morta": false,
-          "geracao": 1,
-          "repasses": 0
         }
       ]
     },
     "estatisticas": {
-      "total_aberturas": 826,
-      "total_fechamentos": 609,
+      "total_aberturas": 847,
+      "total_fechamentos": 611,
       "vitorias": 1,
       "derrotas": 479
     },
     "historico": [
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "FECHOU",
-        "detalhe": "[veloz_4] TRXUSDT 123.9 TRX @ ~0.3057 — regra de saída | P&L +0.55 USDT | orderId 429536"
+        "detalhe": "[veloz_4] SOLUSDT 0.492 SOL @ ~70.73 — regra de saída | P&L +0.54 USDT | orderId 3068377"
       },
       {
-        "quando": "2026-11-22T17:08:39",
+        "quando": "2026-11-22T21:09:37",
         "acao": "FECHOU",
-        "detalhe": "[veloz_4] XRPUSDT 37.3 XRP @ ~0.9293 — regra de saída | P&L +0.31 USDT | orderId 2670910"
+        "detalhe": "[veloz_1] DOGEUSDT 959.0 DOGE @ ~0.05537 — regra de saída | P&L +3.93 USDT | orderId 1947232"
       },
       {
-        "quando": "2026-11-22T17:08:38",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_1] XRPUSDT 59.7 XRP @ ~0.9293 — regra de saída | P&L +3.41 USDT | orderId 2670909"
-      },
-      {
-        "quando": "2026-11-22T13:08:22",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_1] UNIUSDT 8.87 UNI @ ~4.704 — regra de saída | P&L +3.36 USDT | orderId 2634876"
-      },
-      {
-        "quando": "2026-11-22T09:08:40",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_4] ADAUSDT 240.9 ADA @ ~0.1458 — regra de saída | P&L +0.84 USDT | orderId 807846"
-      },
-      {
-        "quando": "2026-11-22T09:08:39",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_1] NEARUSDT 11.3 NEAR @ ~2.984 — regra de saída | P&L +4.25 USDT | orderId 2080451"
-      },
-      {
-        "quando": "2026-11-22T09:08:37",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_1] LINKUSDT 3.26 LINK @ ~8.802 — regra de saída | P&L +2.56 USDT | orderId 3034547"
-      },
-      {
-        "quando": "2026-11-22T09:08:36",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_1] AVAXUSDT 7.48 AVAX @ ~6.697 — regra de saída | P&L +4.54 USDT | orderId 2571771"
-      },
-      {
-        "quando": "2026-11-22T09:08:34",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_1] ADAUSDT 344.2 ADA @ ~0.1458 — regra de saída | P&L +4.01 USDT | orderId 807845"
-      },
-      {
-        "quando": "2026-11-22T05:08:22",
+        "quando": "2026-11-22T21:09:35",
         "acao": "ORDEM LONG",
-        "detalhe": "[veloz_4] ADAUSDT 240.9 ADA (~34.33 USDT) @ ~0.1425 | stop 0.136512 | saída por regra | risco ~1.37 USDT ×0.75 | orderId 805446"
+        "detalhe": "[reversao_6] WIFUSDT 145.13 WIF (~17.46 USDT) @ ~0.1203 | stop 0.10107143 | saída por regra | risco ~2.83 USDT ×1.5 | orderId 654429"
       },
       {
-        "quando": "2026-11-22T05:08:20",
+        "quando": "2026-11-22T21:09:29",
         "acao": "ORDEM LONG",
-        "detalhe": "[veloz_4] XRPUSDT 37.3 XRP (~34.19 USDT) @ ~0.9166 | stop 0.879072 | saída por regra | risco ~1.37 USDT ×0.75 | orderId 2649128"
+        "detalhe": "[reversao_6] LTCUSDT 0.524 LTC (~21.02 USDT) @ ~40.11 | stop 34.805714 | saída por regra | risco ~2.83 USDT ×1.5 | orderId 1397214"
       },
       {
-        "quando": "2026-11-22T01:08:44",
+        "quando": "2026-11-22T21:09:27",
         "acao": "ORDEM LONG",
-        "detalhe": "[veloz_4] SOLUSDT 0.492 SOL (~34.23 USDT) @ ~69.58 | stop 66.7008 | saída por regra | risco ~1.37 USDT ×0.75 | orderId 3028024"
+        "detalhe": "[reversao_6] DOTUSDT 28.47 DOT (~18.82 USDT) @ ~0.661 | stop 0.56257143 | saída por regra | risco ~2.83 USDT ×1.5 | orderId 810958"
       },
       {
-        "quando": "2026-11-21T21:10:03",
+        "quando": "2026-11-22T21:09:25",
         "acao": "ORDEM LONG",
-        "detalhe": "[reversao_6] FLOKIUSDT 1044859.0 FLOKI (~16.77 USDT) @ ~0.00001605 | stop 0.0000133771 | saída por regra | risco ~2.81 USDT ×1.5 | orderId 542806"
+        "detalhe": "[reversao_6] DOGEUSDT 366.0 DOGE (~20.25 USDT) @ ~0.05534 | stop 0.047652857 | saída por regra | risco ~2.83 USDT ×1.5 | orderId 1947229"
       },
       {
-        "quando": "2026-11-21T21:10:02",
-        "acao": "FECHOU",
-        "detalhe": "[reversao_6] WIFUSDT 136.56 WIF @ ~0.118 — stop atingido (0.11) | P&L -2.13 USDT | orderId 647267"
+        "quando": "2026-11-22T21:09:24",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_6] ETHUSDT 0.0121 ETH (~20.86 USDT) @ ~1724.05 | stop 1492.3214 | saída por regra | risco ~2.83 USDT ×1.5 | orderId 11717472"
       },
       {
-        "quando": "2026-11-21T21:09:56",
-        "acao": "FECHOU",
-        "detalhe": "[reversao_6] LTCUSDT 0.544 LTC @ ~39.81 — stop atingido (38.58) | P&L -2.28 USDT | orderId 1373899"
+        "quando": "2026-11-22T21:09:20",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_5] DOTUSDT 29.28 DOT (~19.35 USDT) @ ~0.661 | stop 0.56257143 | saída por regra | risco ~2.91 USDT ×1.5 | orderId 810956"
+      },
+      {
+        "quando": "2026-11-22T21:09:19",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_4] WIFUSDT 144.63 WIF (~17.40 USDT) @ ~0.1203 | stop 0.10107143 | saída por regra | risco ~2.82 USDT ×1.5 | orderId 654428"
+      },
+      {
+        "quando": "2026-11-22T21:09:13",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_4] DOTUSDT 28.38 DOT (~18.76 USDT) @ ~0.661 | stop 0.56257143 | saída por regra | risco ~2.82 USDT ×1.5 | orderId 810955"
+      },
+      {
+        "quando": "2026-11-22T21:09:12",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_4] DOGEUSDT 365.0 DOGE (~20.19 USDT) @ ~0.05532 | stop 0.047652857 | saída por regra | risco ~2.82 USDT ×1.5 | orderId 1947224"
+      },
+      {
+        "quando": "2026-11-22T21:09:10",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_3] WIFUSDT 142.72 WIF (~17.17 USDT) @ ~0.1203 | stop 0.10107143 | saída por regra | risco ~2.78 USDT ×1.5 | orderId 654426"
+      },
+      {
+        "quando": "2026-11-22T21:09:06",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_3] DOTUSDT 28.0 DOT (~18.51 USDT) @ ~0.661 | stop 0.56257143 | saída por regra | risco ~2.78 USDT ×1.5 | orderId 810954"
+      },
+      {
+        "quando": "2026-11-22T21:09:05",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_3] AVAXUSDT 2.34 AVAX (~15.63 USDT) @ ~6.681 | stop 5.5008571 | saída por regra | risco ~2.78 USDT ×1.5 | orderId 2586324"
+      },
+      {
+        "quando": "2026-11-22T21:09:03",
+        "acao": "ORDEM LONG",
+        "detalhe": "[reversao_3] DOGEUSDT 360.0 DOGE (~19.91 USDT) @ ~0.05531 | stop 0.047652857 | saída por regra | risco ~2.78 USDT ×1.5 | orderId 1947221"
       }
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-11-22T17:08:42",
+        "quando": "2026-11-22T21:09:39",
         "acao": "APRENDIZADO",
-        "detalhe": "512 trades na memória | 1339 avaliações pós-saída | 43 hipóteses exploratórias | 0 regras alteradas"
+        "detalhe": "514 trades na memória | 1429 avaliações pós-saída | 43 hipóteses exploratórias | 0 regras alteradas"
       },
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Tendência Ágil 500.00 (+0.00% ❤️100) | Tendência Clássica 500.00 (+0.00% ❤️100) | Tendência Forte 500.00 (+0.00% ❤️100) | Tendência Paciente 500.00 (+0.00% ❤️100) | Tendência Longa 500.00 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "PLACAR TIMES",
-        "detalhe": "Tendência +0.00% | Momentum +0.00% | Reversão à Média -6.28% | Rompimento +0.00% | Veloz (4h) -1.45% | Grid (lateral) +0.00%"
+        "detalhe": "Tendência +0.00% | Momentum +0.00% | Reversão à Média -5.66% | Rompimento +0.00% | Veloz (4h) -1.38% | Grid (lateral) +0.00%"
       },
       {
-        "quando": "2026-11-22T17:08:41",
-        "acao": "VIDAS",
-        "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
-      },
-      {
-        "quando": "2026-11-22T17:08:41",
-        "acao": "AGUARDANDO",
-        "detalhe": "500 pares sem novo candle fechado; nenhuma decisão repetida"
-      },
-      {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.00001625"
+        "detalhe": "[veloz_5] FLOKIUSDT @ 0.0000163"
       },
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002481"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002485"
       },
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.1199"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1206"
       },
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000359"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000361"
       },
       {
-        "quando": "2026-11-22T17:08:41",
+        "quando": "2026-11-22T21:09:38",
         "acao": "SEM SINAL",
         "detalhe": "[veloz_5] PEPEUSDT @ 0.0000034"
+      },
+      {
+        "quando": "2026-11-22T21:09:38",
+        "acao": "SEM SINAL",
+        "detalhe": "[veloz_5] UNIUSDT @ 4.687"
+      },
+      {
+        "quando": "2026-11-22T21:09:38",
+        "acao": "SEM SINAL",
+        "detalhe": "[veloz_5] NEARUSDT @ 2.986"
       }
     ],
-    "ultima_execucao": "2026-11-22T17:08:42",
+    "ultima_execucao": "2026-11-22T21:09:39",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
