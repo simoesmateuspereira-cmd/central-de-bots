@@ -1,9 +1,9 @@
 {
-  "atualizado_em": "2026-11-26T21:09:31",
+  "atualizado_em": "2026-11-27T01:08:42",
   "binance": {
     "nome": "Binance Testnet — Cripto",
     "tipo": "spot · conta de teste (dinheiro fictício)",
-    "saldo": 7923.19,
+    "saldo": 7717.38,
     "moeda": "USDT",
     "conta": null,
     "posicoes": [
@@ -926,6 +926,33 @@
         "aberta_em": "2026-11-27T00:08:53+00:00"
       },
       {
+        "par": "BTCUSDT",
+        "estrategia": "Veloz (4h) Momentum 4h",
+        "entrada": 61401.73,
+        "stop": 59377.77571429,
+        "alvo": 65477.44857143,
+        "qtd": 0.00049,
+        "aberta_em": "2026-11-27T04:08:30+00:00"
+      },
+      {
+        "par": "ETHUSDT",
+        "estrategia": "Veloz (4h) Momentum 4h",
+        "entrada": 1727.97,
+        "stop": 1658.93857143,
+        "alvo": 1868.04285714,
+        "qtd": 0.0142,
+        "aberta_em": "2026-11-27T04:08:31+00:00"
+      },
+      {
+        "par": "BNBUSDT",
+        "estrategia": "Veloz (4h) Momentum 4h",
+        "entrada": 562.74,
+        "stop": 544.85285714,
+        "alvo": 598.06428571,
+        "qtd": 0.056,
+        "aberta_em": "2026-11-27T04:08:33+00:00"
+      },
+      {
         "par": "ATOMUSDT",
         "estrategia": "Veloz (4h) Grid 4h",
         "entrada": 1.212,
@@ -935,28 +962,10 @@
         "aberta_em": "2026-11-26T12:08:41+00:00"
       },
       {
-        "par": "UNIUSDT",
-        "estrategia": "Veloz (4h) Grid 4h",
-        "entrada": 4.637,
-        "stop": 4.43808,
-        "alvo": null,
-        "qtd": 7.63,
-        "aberta_em": "2026-11-26T16:08:49+00:00"
-      },
-      {
-        "par": "LINKUSDT",
-        "estrategia": "Veloz (4h) Tendência 4h",
-        "entrada": 9.16,
-        "stop": 9.14322,
-        "alvo": 10.019,
-        "qtd": 2.28,
-        "aberta_em": "2026-11-26T08:08:41+00:00"
-      },
-      {
         "par": "LTCUSDT",
         "estrategia": "Veloz (4h) Tendência 4h",
         "entrada": 43.4,
-        "stop": 41.40142857,
+        "stop": 43.4754,
         "alvo": 47.60714286,
         "qtd": 0.476,
         "aberta_em": "2026-11-26T08:08:43+00:00"
@@ -978,12 +987,39 @@
         "alvo": 0.16334286,
         "qtd": 133.6,
         "aberta_em": "2026-11-27T00:08:57+00:00"
+      },
+      {
+        "par": "DOGEUSDT",
+        "estrategia": "Veloz (4h) Tendência 4h",
+        "entrada": 0.05766,
+        "stop": 0.05534857,
+        "alvo": 0.06249286,
+        "qtd": 414.0,
+        "aberta_em": "2026-11-27T04:08:36+00:00"
+      },
+      {
+        "par": "NEARUSDT",
+        "estrategia": "Veloz (4h) Tendência 4h",
+        "entrada": 3.101,
+        "stop": 2.89971429,
+        "alvo": 3.51857143,
+        "qtd": 4.7,
+        "aberta_em": "2026-11-27T04:08:39+00:00"
+      },
+      {
+        "par": "FLOKIUSDT",
+        "estrategia": "Veloz (4h) Tendência 4h",
+        "entrada": 1.683e-05,
+        "stop": 1.619e-05,
+        "alvo": 1.813e-05,
+        "qtd": 1522875.0,
+        "aberta_em": "2026-11-27T04:08:41+00:00"
       }
     ],
     "campeonato": {
       "inicio": "2026-10-15T22:54:07+00:00",
       "cota_inicial": 331.5,
-      "placar_em": "2026-11-27T00:08:57+00:00",
+      "placar_em": "2026-11-27T04:08:41+00:00",
       "temporada": 2,
       "temporada_inicio": "2026-11-15T04:12:42+00:00",
       "cemiterio": [],
@@ -1188,8 +1224,8 @@
         {
           "time": "veloz",
           "nome": "Veloz (4h)",
-          "equity": 1978.75,
-          "retorno_pct": -1.06,
+          "equity": 1978.02,
+          "retorno_pct": -1.1,
           "vida_media": 95.5,
           "vivos": 5,
           "total": 5
@@ -1809,17 +1845,17 @@
           "time": "veloz",
           "apelido": "Grid 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 377.06,
+          "equity": 378.45,
           "cota_inicial": 400.0,
-          "retorno_pct": -5.73,
+          "retorno_pct": -5.39,
           "sharpe": -4.69,
           "max_dd": 9.35,
           "pontuacao": -4.69,
-          "posicoes_abertas": 2,
+          "posicoes_abertas": 1,
           "aberturas": 50,
-          "vitorias": 20,
+          "vitorias": 21,
           "derrotas": 28,
-          "pnl": -23.27,
+          "pnl": -21.73,
           "vida": 85.3,
           "status": "confiante",
           "morta": false,
@@ -1855,14 +1891,14 @@
           "time": "veloz",
           "apelido": "Momentum 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 398.84,
+          "equity": 397.42,
           "cota_inicial": 400.0,
-          "retorno_pct": -0.29,
+          "retorno_pct": -0.65,
           "sharpe": -8.52,
           "max_dd": 0.31,
           "pontuacao": -8.52,
-          "posicoes_abertas": 10,
-          "aberturas": 12,
+          "posicoes_abertas": 13,
+          "aberturas": 15,
           "vitorias": 0,
           "derrotas": 2,
           "pnl": -1.18,
@@ -1878,17 +1914,17 @@
           "time": "veloz",
           "apelido": "Tendência 4h",
           "descricao": "laboratório rápido em candles de 4 horas",
-          "equity": 394.37,
+          "equity": 393.67,
           "cota_inicial": 400.0,
-          "retorno_pct": -1.41,
+          "retorno_pct": -1.58,
           "sharpe": -9.88,
           "max_dd": 1.64,
           "pontuacao": -9.88,
-          "posicoes_abertas": 4,
-          "aberturas": 11,
-          "vitorias": 1,
+          "posicoes_abertas": 6,
+          "aberturas": 14,
+          "vitorias": 2,
           "derrotas": 6,
-          "pnl": -6.07,
+          "pnl": -5.42,
           "vida": 96.9,
           "status": "confiante",
           "morta": false,
@@ -1898,12 +1934,52 @@
       ]
     },
     "estatisticas": {
-      "total_aberturas": 892,
-      "total_fechamentos": 636,
+      "total_aberturas": 898,
+      "total_fechamentos": 638,
       "vitorias": 1,
-      "derrotas": 488
+      "derrotas": 489
     },
     "historico": [
+      {
+        "quando": "2026-11-27T01:08:41",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] FLOKIUSDT 1522875.0 FLOKI (~25.63 USDT) @ ~0.00001683 | stop 0.0000161929 | alvo 0.0000181343 | risco ~0.99 USDT ×0.5 | orderId 586930"
+      },
+      {
+        "quando": "2026-11-27T01:08:39",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] NEARUSDT 4.7 NEAR (~14.57 USDT) @ ~3.101 | stop 2.8997143 | alvo 3.5185714 | risco ~0.99 USDT ×0.5 | orderId 2245379"
+      },
+      {
+        "quando": "2026-11-27T01:08:38",
+        "acao": "FECHOU",
+        "detalhe": "[veloz_5] LINKUSDT 2.28 LINK @ ~9.501 — stop atingido (9.28) | P&L +0.65 USDT | orderId 3280996"
+      },
+      {
+        "quando": "2026-11-27T01:08:36",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] DOGEUSDT 414.0 DOGE (~23.87 USDT) @ ~0.05766 | stop 0.055348571 | alvo 0.062492857 | risco ~0.99 USDT ×0.5 | orderId 2086033"
+      },
+      {
+        "quando": "2026-11-27T01:08:34",
+        "acao": "FECHOU",
+        "detalhe": "[veloz_4] UNIUSDT 7.63 UNI @ ~4.842 — regra de saída | P&L +1.54 USDT | orderId 2804789"
+      },
+      {
+        "quando": "2026-11-27T01:08:33",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_3] BNBUSDT 0.056 BNB (~31.51 USDT) @ ~562.74 | stop 544.85286 | alvo 598.06429 | risco ~0.99 USDT ×0.5 | orderId 7782610"
+      },
+      {
+        "quando": "2026-11-27T01:08:31",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_3] ETHUSDT 0.0142 ETH (~24.54 USDT) @ ~1727.97 | stop 1658.9386 | alvo 1868.0429 | risco ~1.00 USDT ×0.5 | orderId 12625812"
+      },
+      {
+        "quando": "2026-11-27T01:08:30",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_3] BTCUSDT 0.00049 BTC (~30.09 USDT) @ ~61401.73 | stop 59377.776 | alvo 65477.449 | risco ~1.00 USDT ×0.5 | orderId 18218816"
+      },
       {
         "quando": "2026-11-26T21:08:57",
         "acao": "ORDEM LONG",
@@ -1938,101 +2014,61 @@
         "quando": "2026-11-26T21:08:45",
         "acao": "ORDEM LONG",
         "detalhe": "[veloz_3] ADAUSDT 135.1 ADA (~20.10 USDT) @ ~0.1488 | stop 0.14122857 | alvo 0.16334286 | risco ~1.00 USDT ×0.5 | orderId 872155"
-      },
-      {
-        "quando": "2026-11-26T21:08:44",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_3] XRPUSDT 25.6 XRP (~24.18 USDT) @ ~0.9445 | stop 0.90497143 | alvo 1.0214571 | risco ~1.00 USDT ×0.5 | orderId 2902066"
-      },
-      {
-        "quando": "2026-11-26T21:08:42",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_3] SOLUSDT 0.331 SOL (~23.53 USDT) @ ~71.1 | stop 68.027143 | alvo 77.035714 | risco ~1.00 USDT ×0.5 | orderId 3325902"
-      },
-      {
-        "quando": "2026-11-26T17:08:44",
-        "acao": "FECHOU",
-        "detalhe": "[veloz_5] WIFUSDT 123.87 WIF @ ~0.1394 — stop atingido (0.14) | P&L +0.52 USDT | orderId 705820"
-      },
-      {
-        "quando": "2026-11-26T17:08:42",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_3] NEARUSDT 4.6 NEAR (~14.19 USDT) @ ~3.084 | stop 2.8661429 | alvo 3.5107143 | risco ~0.99 USDT ×0.5 | orderId 2235727"
-      },
-      {
-        "quando": "2026-11-26T13:08:50",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_5] WIFUSDT 123.87 WIF (~16.76 USDT) @ ~0.1353 | stop 0.12737143 | alvo 0.15115714 | risco ~0.98 USDT ×0.5 | orderId 702243"
-      },
-      {
-        "quando": "2026-11-26T13:08:49",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_4] UNIUSDT 7.63 UNI (~35.38 USDT) @ ~4.637 | stop 4.43808 | saída por regra | risco ~1.42 USDT ×0.75 | orderId 2788599"
-      },
-      {
-        "quando": "2026-11-26T13:08:47",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_2] WIFUSDT 125.57 WIF (~16.99 USDT) @ ~0.1353 | stop 0.12737143 | alvo 0.15512143 | risco ~1.00 USDT ×0.5 | orderId 702242"
-      },
-      {
-        "quando": "2026-11-26T09:08:41",
-        "acao": "ORDEM LONG",
-        "detalhe": "[veloz_4] ATOMUSDT 29.14 ATOM (~35.32 USDT) @ ~1.212 | stop 1.16544 | saída por regra | risco ~1.41 USDT ×0.75 | orderId 475858"
       }
     ],
     "acoes_recentes": [
       {
-        "quando": "2026-11-26T21:08:58",
+        "quando": "2026-11-27T01:08:42",
         "acao": "APRENDIZADO",
-        "detalhe": "539 trades na memória | 1563 avaliações pós-saída | 45 hipóteses exploratórias | 0 regras alteradas"
+        "detalhe": "541 trades na memória | 1566 avaliações pós-saída | 45 hipóteses exploratórias | 0 regras alteradas"
       },
       {
-        "quando": "2026-11-26T21:08:57",
+        "quando": "2026-11-27T01:08:41",
         "acao": "PLACAR",
         "detalhe": "top 5 agentes: Tendência Ágil 500.00 (+0.00% ❤️100) | Tendência Clássica 500.00 (+0.00% ❤️100) | Tendência Forte 500.00 (+0.00% ❤️100) | Tendência Paciente 500.00 (+0.00% ❤️100) | Tendência Longa 500.00 (+0.00% ❤️100)"
       },
       {
-        "quando": "2026-11-26T21:08:57",
+        "quando": "2026-11-27T01:08:41",
         "acao": "PLACAR TIMES",
-        "detalhe": "Tendência +0.00% | Momentum +0.00% | Reversão à Média -4.14% | Rompimento +0.00% | Veloz (4h) -1.06% | Grid (lateral) +0.00%"
+        "detalhe": "Tendência +0.00% | Momentum +0.00% | Reversão à Média -4.14% | Rompimento +0.00% | Veloz (4h) -1.10% | Grid (lateral) +0.00%"
       },
       {
-        "quando": "2026-11-26T21:08:57",
-        "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] FLOKIUSDT @ 0.0000166"
+        "quando": "2026-11-27T01:08:41",
+        "acao": "VIDAS",
+        "detalhe": "HP já atualizado hoje — rodada intermediária, só operações"
       },
       {
-        "quando": "2026-11-26T21:08:57",
-        "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002498"
+        "quando": "2026-11-27T01:08:41",
+        "acao": "AGUARDANDO",
+        "detalhe": "500 pares sem novo candle fechado; nenhuma decisão repetida"
       },
       {
-        "quando": "2026-11-26T21:08:57",
-        "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] WIFUSDT @ 0.1361"
+        "quando": "2026-11-27T01:08:41",
+        "acao": "ORDEM LONG",
+        "detalhe": "[veloz_5] FLOKIUSDT 1522875.0 FLOKI (~25.63 USDT) @ ~0.00001683 | stop 0.0000161929 | alvo 0.0000181343 | risco ~0.99 USDT ×0.5 | orderId 586930"
       },
       {
-        "quando": "2026-11-26T21:08:57",
+        "quando": "2026-11-27T01:08:39",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000363"
+        "detalhe": "[veloz_5] DOGSUSDT @ 0.00002554"
       },
       {
-        "quando": "2026-11-26T21:08:57",
+        "quando": "2026-11-27T01:08:39",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000348"
+        "detalhe": "[veloz_5] WIFUSDT @ 0.1379"
       },
       {
-        "quando": "2026-11-26T21:08:57",
+        "quando": "2026-11-27T01:08:39",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] UNIUSDT @ 4.658"
+        "detalhe": "[veloz_5] SHIBUSDT @ 0.00000368"
       },
       {
-        "quando": "2026-11-26T21:08:57",
+        "quando": "2026-11-27T01:08:39",
         "acao": "SEM SINAL",
-        "detalhe": "[veloz_5] NEARUSDT @ 3.05"
+        "detalhe": "[veloz_5] PEPEUSDT @ 0.00000359"
       }
     ],
-    "ultima_execucao": "2026-11-26T21:08:58",
+    "ultima_execucao": "2026-11-27T01:08:42",
     "estrategia": "Campeonato: 5 estratégias × USDT 2.000 · risco 0,5% por trade · candles diários",
     "pares": [
       "BTCUSDT",
